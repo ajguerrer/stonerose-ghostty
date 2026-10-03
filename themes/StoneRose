@@ -1,0 +1,28 @@
+# StoneRose for Ghostty.
+# Colors match the StoneRose VS Code and Zed terminal palettes.
+
+background = #303033
+foreground = #B4B4BF
+cursor-color = #CCCCD9
+cursor-text = #606066
+selection-background = #606066
+selection-foreground = #B4B4BF
+
+palette = 0=#303033
+palette = 1=#BF9D9D
+palette = 2=#AEBF9D
+palette = 3=#BFAE9D
+palette = 4=#9DAEBF
+palette = 5=#AE9DBF
+palette = 6=#9DBFAE
+palette = 7=#B4B4BF
+palette = 8=#787880
+
+# StoneRose uses the same accents for normal and bright ANSI colors.
+palette = 9=#BF9D9D
+palette = 10=#AEBF9D
+palette = 11=#BFAE9D
+palette = 12=#9DAEBF
+palette = 13=#AE9DBF
+palette = 14=#9DBFAE
+palette = 15=#E4E4F2
